@@ -3,7 +3,7 @@ package org.example.List;
 import org.example.Student;
 
 
-public class List implements LinkedList{
+public class List{
     private Node head;
     private int size;
     @Override
